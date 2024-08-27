@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|c:\\users\\dell\\source\\ogunfold\\webapifetchsample\\webapifetchsample\\assect\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|solutionrelative:webapifetchsample\\assect\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|c:\\users\\dell\\source\\ogunfold\\webapifetchsample\\webapifetchsample\\repositoryclasses\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|solutionrelative:webapifetchsample\\repositoryclasses\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|c:\\users\\dell\\source\\ogunfold\\webapifetchsample\\webapifetchsample\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|solutionrelative:webapifetchsample\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|c:\\users\\dell\\source\\ogunfold\\webapifetchsample\\webapifetchsample\\entity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|solutionrelative:webapifetchsample\\entity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|c:\\users\\dell\\source\\ogunfold\\webapifetchsample\\webapifetchsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|solutionrelative:webapifetchsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|c:\\users\\dell\\source\\ogunfold\\webapifetchsample\\webapifetchsample\\entity\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297023EE-02C2-449D-80A5-A8710F3B31F7}|WebApiFetchSample\\WebApiFetchSample.csproj|solutionrelative:webapifetchsample\\entity\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{905da7d1-18fd-4a46-8d0f-a5ff58ada9de}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Responce.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Entity\\Responce.cs",
+              "RelativeDocumentMoniker": "WebApiFetchSample\\Entity\\Responce.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Entity\\Responce.cs",
+              "RelativeToolTip": "WebApiFetchSample\\Entity\\Responce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:32:35.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\RepositoryClasses\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "WebApiFetchSample\\RepositoryClasses\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\RepositoryClasses\\PersonRepository.cs",
+              "RelativeToolTip": "WebApiFetchSample\\RepositoryClasses\\PersonRepository.cs",
+              "ViewState": "AQIAAAcAAAAAZ2ZmZmYOwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:16:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "WebApiFetchSample\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Interface\\IRepository.cs",
+              "RelativeToolTip": "WebApiFetchSample\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:12:06.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiFetchSample\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Program.cs",
+              "RelativeToolTip": "WebApiFetchSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:44:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "person.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Entity\\person.cs",
+              "RelativeDocumentMoniker": "WebApiFetchSample\\Entity\\person.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Entity\\person.cs",
+              "RelativeToolTip": "WebApiFetchSample\\Entity\\person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:05:49.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "people.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Assect\\people.json",
+              "RelativeDocumentMoniker": "WebApiFetchSample\\Assect\\people.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\OgunFold\\WebApiFetchSample\\WebApiFetchSample\\Assect\\people.json",
+              "RelativeToolTip": "WebApiFetchSample\\Assect\\people.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T20:52:53.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S6pcSVlzu0ysUCH6l76LmBavbSSqPtvkTke8tIuzoGQ=",
+  "Source": "WebApiFetchSample",
+  "BasePath": "_content/WebApiFetchSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

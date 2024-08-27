@@ -1,0 +1,37 @@
+[
+  {
+    "personId": 1,
+    "firstName": "Paul",
+    "lastName": "Ladipo",
+    "email": "paul@gmail.com",
+    "starDate": "1991-04-02"
+  },
+  {
+    "personId": 2,
+    "firstName": "maje",
+    "lastName": "linus",
+    "email": "maje@gmail.com",
+    "starDate": "1992-03-02"
+  },
+  {
+    "personId": 3,
+    "firstName": "flip",
+    "lastName": "filipin",
+    "email": "flip@gmail.com",
+    "starDate": "1994-04-02"
+  },
+  {
+    "personId": 4,
+    "firstName": "denu",
+    "lastName": "luki",
+    "email": "danu@gmail.com",
+    "starDate": "1994-04-07"
+  }
+  {
+    "personId": 5,
+    "firstName": "Paul",
+    "lastName": "Ladipo",
+    "email": "paul@gmail.com",
+    "starDate": "1991-04-02"
+  }
+]
